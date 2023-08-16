@@ -13,6 +13,7 @@ Since the number of all subsets of N is 2^|N|, the time complexity is O(2^|N|). 
 ## Usage
 
 INPUT: a graph given by a txt file, each line encodes a vertex (first number on the line) and its neighbours (the remainder of the line) 
+
 OUTPUT: toughness, a relevant cut-set S, number of components of G-S, printed in console
 
-change the input file to encode your graph, and compile and run main.cpp 
+In order use the code, plese change the input file to encode your graph, and compile and run main.cpp.
